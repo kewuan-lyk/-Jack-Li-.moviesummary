@@ -20,7 +20,7 @@ The following test queries demonstrate cases where traditional exact-keyword/SQL
 | Test Query | Matched Movie | Why Keyword Search Fails |
 | :--- | :--- | :--- |
 | Query 1: "A grim competition where youth are forced to fight each other for survival" | The Hunger Games | The plot summary uses domain-specific terms like Panem, rebellion, Capitol, and tribute. It contains none of the query words such as competition, youth, or survival. |
-| Query 2: "A story about losing someone you love and struggling to move on" | Phir Kabhi | The summary describes senior citizens, old age, school romantic memories, and spouse. It completely lacks emotional abstraction words like losing someone or struggling to move on. |
+| Query 2: "A story about losing someone you love and struggling to move on" | Poor Cow | The summary describes senior citizens, old age, school romantic memories, and spouse. It completely lacks emotional abstraction words like losing someone or struggling to move on. |
 
 
 ## Core Functionality
